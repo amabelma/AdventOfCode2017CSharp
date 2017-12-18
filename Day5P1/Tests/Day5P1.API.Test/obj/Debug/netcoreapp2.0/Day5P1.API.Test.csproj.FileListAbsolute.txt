@@ -1,0 +1,15 @@
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day5P1\Tests\Day5P1.API.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day5P1\Tests\Day5P1.API.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day5P1\Tests\Day5P1.API.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day5P1\Tests\Day5P1.API.Test\bin\Debug\netcoreapp2.0\Day5P1.API.Test.deps.json
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day5P1\Tests\Day5P1.API.Test\bin\Debug\netcoreapp2.0\Day5P1.API.Test.runtimeconfig.json
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day5P1\Tests\Day5P1.API.Test\bin\Debug\netcoreapp2.0\Day5P1.API.Test.runtimeconfig.dev.json
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day5P1\Tests\Day5P1.API.Test\bin\Debug\netcoreapp2.0\Day5P1.API.Test.dll
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day5P1\Tests\Day5P1.API.Test\bin\Debug\netcoreapp2.0\Day5P1.API.Test.pdb
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day5P1\Tests\Day5P1.API.Test\obj\Debug\netcoreapp2.0\Day5P1.API.Test.csproj.CoreCompileInputs.cache
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day5P1\Tests\Day5P1.API.Test\obj\Debug\netcoreapp2.0\Day5P1.API.Test.AssemblyInfoInputs.cache
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day5P1\Tests\Day5P1.API.Test\obj\Debug\netcoreapp2.0\Day5P1.API.Test.AssemblyInfo.cs
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day5P1\Tests\Day5P1.API.Test\obj\Debug\netcoreapp2.0\Day5P1.API.Test.dll
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day5P1\Tests\Day5P1.API.Test\obj\Debug\netcoreapp2.0\Day5P1.API.Test.pdb
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day5P1\Tests\Day5P1.API.Test\bin\Debug\netcoreapp2.0\Day5P1.API.dll
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day5P1\Tests\Day5P1.API.Test\bin\Debug\netcoreapp2.0\Day5P1.API.pdb

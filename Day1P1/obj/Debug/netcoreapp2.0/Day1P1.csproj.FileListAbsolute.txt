@@ -1,0 +1,10 @@
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day1P1\obj\Debug\netcoreapp2.0\Day1P1.csproj.CoreCompileInputs.cache
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day1P1\obj\Debug\netcoreapp2.0\Day1P1.AssemblyInfoInputs.cache
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day1P1\obj\Debug\netcoreapp2.0\Day1P1.AssemblyInfo.cs
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day1P1\bin\Debug\netcoreapp2.0\Day1P1.deps.json
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day1P1\bin\Debug\netcoreapp2.0\Day1P1.runtimeconfig.json
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day1P1\bin\Debug\netcoreapp2.0\Day1P1.runtimeconfig.dev.json
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day1P1\bin\Debug\netcoreapp2.0\Day1P1.dll
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day1P1\bin\Debug\netcoreapp2.0\Day1P1.pdb
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day1P1\obj\Debug\netcoreapp2.0\Day1P1.dll
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day1P1\obj\Debug\netcoreapp2.0\Day1P1.pdb

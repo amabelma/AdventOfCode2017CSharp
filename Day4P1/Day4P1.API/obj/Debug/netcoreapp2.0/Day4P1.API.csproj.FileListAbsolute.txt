@@ -1,0 +1,10 @@
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day4P1\Day4P1.API\obj\Debug\netcoreapp2.0\Day4P1.API.csproj.CoreCompileInputs.cache
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day4P1\Day4P1.API\obj\Debug\netcoreapp2.0\Day4P1.API.AssemblyInfoInputs.cache
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day4P1\Day4P1.API\obj\Debug\netcoreapp2.0\Day4P1.API.AssemblyInfo.cs
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day4P1\Day4P1.API\bin\Debug\netcoreapp2.0\Day4P1.API.deps.json
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day4P1\Day4P1.API\bin\Debug\netcoreapp2.0\Day4P1.API.runtimeconfig.json
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day4P1\Day4P1.API\bin\Debug\netcoreapp2.0\Day4P1.API.runtimeconfig.dev.json
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day4P1\Day4P1.API\bin\Debug\netcoreapp2.0\Day4P1.API.dll
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day4P1\Day4P1.API\bin\Debug\netcoreapp2.0\Day4P1.API.pdb
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day4P1\Day4P1.API\obj\Debug\netcoreapp2.0\Day4P1.API.dll
+C:\Users\mark.amabeli\Desktop\AdventOfCode\Day4P1\Day4P1.API\obj\Debug\netcoreapp2.0\Day4P1.API.pdb
